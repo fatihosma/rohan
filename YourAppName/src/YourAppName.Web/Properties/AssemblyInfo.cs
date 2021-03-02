@@ -1,2 +1,0 @@
-﻿using System.Runtime.CompilerServices;
-[assembly:InternalsVisibleToAttribute("YourAppName.Web.Tests")]
